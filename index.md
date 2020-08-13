@@ -99,6 +99,8 @@ displayed if the 'eventbrite' field in the header is not set.
 </iframe>
 {% endif %}
 
+<h2 id="general">Registration</h2>
+<p>Please register your interest in the Library Carpentry workshops by 11 September 2020 by filling up this <a href="https://docs.google.com/forms/d/e/1FAIpQLScJOvrK8EoLfJe-lZPcJO55auTpAV9X5wQZTQ8JIID3JIUIDQ/viewform">form</a>.</p>
 
 <h2 id="general">General Information</h2>
 
